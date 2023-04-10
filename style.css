@@ -1,0 +1,25 @@
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 28px;
+background-color: #8FBC8F;
+width: 375px;
+padding: 15px;
+color: darkorchid;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border: 15px dotted dodgerblue;
+    border-radius: 150px;
+    box-shadow: 30px 30px 30px orchid;
+}
